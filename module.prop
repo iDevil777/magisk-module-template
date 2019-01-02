@@ -1,6 +1,6 @@
 id=safetypatcher
-name=Safety Net Patch for Mi Max 3
-version=v1
+name=SafetyNetPatch_MiMax3
+version=V1
 versionCode=1
 author=iDevil
 description=Flash the module and reboot.
