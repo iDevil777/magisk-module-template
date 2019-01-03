@@ -9,4 +9,4 @@ Fixes SafetyNet basicIntegrity & CTS on Xiaomi Mi Max 3 and most devices, after 
 ## Instructions
 1. Flash in Magisk Manager or TWRP
 2. Reboot
-3. Comment on XDA to share your experience
+3. Comment on 4PDA to share your experience
