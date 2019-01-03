@@ -1,0 +1,7 @@
+id=safetypatcher
+name=SafetyNet Patch for Mi Max 3
+version=V1
+versionCode=1
+author=iDevil (wqbpw on 4PDA)
+description=Flash the module and reboot. Thanks to the author for 4PDA ;)
+minMagisk=17000
